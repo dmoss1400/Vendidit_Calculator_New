@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vendidit-Calculator-new/static/css/main.3f742262.css",
+    "main.js": "/Vendidit-Calculator-new/static/js/main.f5d1ded5.js",
+    "index.html": "/Vendidit-Calculator-new/index.html",
+    "main.3f742262.css.map": "/Vendidit-Calculator-new/static/css/main.3f742262.css.map",
+    "main.f5d1ded5.js.map": "/Vendidit-Calculator-new/static/js/main.f5d1ded5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f742262.css",
+    "static/js/main.f5d1ded5.js"
+  ]
+}
