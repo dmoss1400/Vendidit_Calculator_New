@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Vendidit-Calculator-new/static/css/main.3f742262.css",
-    "main.js": "/Vendidit-Calculator-new/static/js/main.f5d1ded5.js",
-    "index.html": "/Vendidit-Calculator-new/index.html",
-    "main.3f742262.css.map": "/Vendidit-Calculator-new/static/css/main.3f742262.css.map",
-    "main.f5d1ded5.js.map": "/Vendidit-Calculator-new/static/js/main.f5d1ded5.js.map"
+    "main.css": "/Vendidit-Calculator-New/static/css/main.844dcab7.css",
+    "main.js": "/Vendidit-Calculator-New/static/js/main.8b1336b4.js",
+    "index.html": "/Vendidit-Calculator-New/index.html",
+    "main.844dcab7.css.map": "/Vendidit-Calculator-New/static/css/main.844dcab7.css.map",
+    "main.8b1336b4.js.map": "/Vendidit-Calculator-New/static/js/main.8b1336b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f742262.css",
-    "static/js/main.f5d1ded5.js"
+    "static/css/main.844dcab7.css",
+    "static/js/main.8b1336b4.js"
   ]
 }
